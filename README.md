@@ -27,7 +27,11 @@ https://www.youtube.com/watch?v=mrHNSanmqQ4&t=1902s
 - instalei Insomnia
 	- https://insomnia.rest/download
 
+- INSOMNIA: SyntaxError: Unexpected token } in JSON at position 109
+	- found out that my JSON POST can NOT end with a comma (,)
+	- position 109 does NOT mean line. 
+
 # STOPPED AT:
-- 51:31 - Had a problem posting with insomnia
+- 
 
 

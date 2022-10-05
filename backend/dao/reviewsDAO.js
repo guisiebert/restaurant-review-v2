@@ -1,5 +1,5 @@
 import mongodb from "mongodb"
-const ObjectId = mongodb.ObjectID
+const ObjectId = mongodb.ObjectId // <<< changed ID to Id, because the old one was deprecated
 
 let reviews
 

@@ -3,7 +3,9 @@ Using this tutorial:
 https://www.youtube.com/watch?v=mrHNSanmqQ4&t=1902s
 
 
-# Troubleshooting Logs
+## Troubleshooting Logs
+
+## NODE.JS BACKEND
 - had to instal Node.js first (google it)
 
 - emm 20:34 (no arquivo index.js) foi necessária alterar algumas properties que estava deprecated:
@@ -31,11 +33,21 @@ https://www.youtube.com/watch?v=mrHNSanmqQ4&t=1902s
 	- found out that my JSON POST can NOT end with a comma (,)
 	- position 109 does NOT mean line. 
 
+## NODE BACKEND SEEMS TO BE WORKING. (Tears of joy)
 
-#NODE BACKEND SEEMS TO BE WORKING. (Tears of joy)
-#Now Heading to the React Frontend.
+## REACT.JS FRONTEND 
+# And so it begins... 
 
-# STOPPED AT:
-- 
+- Install React 
+	- npx create-react-app frontend
+
+
+
+
+
+-------
+
+# STUCK AT: 1:06:17
+- Can't install react with NPX, no matter what.
 
 
